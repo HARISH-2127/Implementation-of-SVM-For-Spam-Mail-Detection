@@ -3,6 +3,7 @@
 ## NAME: HARISH S 
 ## REG NO: 212224040105
 
+
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
 
